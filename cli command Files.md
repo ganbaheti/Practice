@@ -1,15 +1,15 @@
 ***
 install hyperhit and minikube
 ---
-brew update
+ -> brew update
 <br>
-brew install hyperkit
+ -> brew install hyperkit
 <br>
-brew install minikube
+ -> brew install minikube
 <br>
-kubectl
+ -> kubectl
 <br>
-minikube
+ -> minikube
 <br>
 
 ***
